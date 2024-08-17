@@ -1,0 +1,212 @@
+.html
+{
+    
+}
+.container{
+    overflow: hidden;
+  }
+h1{
+    text-align: left;
+    
+}
+h3
+{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-size: 16px;
+  color: grey;
+}
+.section2
+{   
+    height: 1200px;
+    box-sizing: 1000px;
+    overflow: hidden;
+    background-color: white;
+    box-sizing: 20px;
+    border-radius: 20px;
+    size: cover;
+    margin-left: 0px;
+    text-align: center;
+    padding: 0px 20px 80px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    width: 500px;
+    text-align: left;
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 20px;
+    margin-left: 250px;
+    height: 720px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flexbox;
+    position: fixed;
+    
+  }
+  .container2
+  {
+    margin-left: 810px;
+    margin-bottom: 1310px;
+    margin-top: 10px;
+    height: 20px;
+  }
+
+ .foto
+ {
+  height: 781px;
+  margin-top: 20px;
+ } 
+
+.social-media, .social-media2,.social-media3
+{
+  margin-top: 20px;
+
+  
+}
+.social-media button {
+    background-color:rgb(3, 74, 146);
+    color: #ffffff;
+    border: 1px solid #ccc;
+    width: 100%;
+    
+    margin-top: -220px;
+    text-align: center;
+    margin-bottom: 2px;
+    padding: 12px 10px;
+    
+    
+  }
+  .social-media i {
+    margin-right: 10px;
+    font-size: 18px;
+    vertical-align: middle;
+  }
+  .social-media2 button
+  {
+    background-color: #0d65e7;
+    color: #ffffff;
+    border: 1px solid #ccc;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 2px;
+    padding: 15px 0px;
+    
+    
+  }
+  .social-media3 button
+  {
+    background-color: #dd3535;
+    color: #ffffff;
+    border: 1px solid #ccc;
+    width: 100%;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    padding: 12px 0px;
+    
+  }
+  .button
+  {
+    box-sizing: 20px;
+  }
+  .botao1
+  {
+    margin-top: 201px;
+    box-sizing: 200px;
+    border-radius: 20px;
+    
+  }
+  .botao2
+  {
+    box-sizing: 600px;
+    margin-top: 0px;
+    border-radius: 200px;
+    border: none;
+    border-radius: 20px;
+    
+  }
+  .social-media :hover
+  {
+    margin-right: 10px;
+    font-size: 18px;
+    vertical-align: middle;
+    background-color: rgb(7, 41, 194);
+  }
+
+  .social-media2 :hover
+  {
+    margin-right: 10px;
+    font-size: 18px;
+    vertical-align: middle;
+    background-color: rgb(4, 74, 155);
+  }
+  .social-media3 :hover
+  {
+    margin-right: 10px;
+    font-size: 18px;
+    vertical-align: middle;
+    background-color: rgb(204, 45, 45);
+  }
+  .login button
+  {
+    background-color:rgb(6, 120, 233);
+    color: #ffffff;
+    border: 1px solid #ccc;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 22px;
+    padding: 12px 10px;
+    
+    
+  }
+  
+
+  .login :hover
+  {
+    margin-right: 10px;
+    font-size: 18px;
+    vertical-align: middle;
+    background-color: rgb(2, 107, 182);
+  }
+  input
+  {
+    
+  }
+
+.etc
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    text-align: left;
+    margin-right: 20px;
+    margin-top: 2px;
+    height: 60px;
+
+}
+
+.requeridos input
+{
+  size: 0px;
+  height: 50px;
+  
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+

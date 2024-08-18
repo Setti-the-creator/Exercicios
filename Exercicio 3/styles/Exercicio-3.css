@@ -1,0 +1,139 @@
+
+html
+{
+    background-color: rgb(36, 23, 23);
+    
+}
+
+
+.container
+{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: 1260px;
+    margin-top: 100px;
+    color: white;
+    background-color: black;
+    width: 600px;
+    margin-left: 140px;
+    text-align: justify;
+    border-radius: 2%;
+    height: 670px;
+    width: 700px;
+    position: fixed;
+}
+
+h1
+{
+    margin-top: 20px;
+    margin-left: 55px;
+    color: rgb(247, 247, 214);
+    
+}
+h3
+{
+    margin-left: 25px;
+    font-size: 15px;
+    margin-right: 22px;
+    color: rgb(165, 163, 163);
+}
+
+label
+{
+    margin-left:20px ;
+}
+
+
+input
+{
+    background-color: rgb(36, 23, 23);
+    border-color: rgb(228, 203, 203);
+    border-radius: 2%;
+    
+    margin-left: 20px;
+}
+
+.solos label
+{
+    width: 500px;
+}
+
+.duos
+{
+    padding-right: 10px;
+}
+
+.estado
+{
+    margin-left: 307px;
+}
+
+.bairro
+{
+    margin-left: 290px;
+}
+
+
+.tamanhoinputs2
+{
+    width: 310px;
+    margin-bottom: 10px;
+    height: 25px;
+    color: white;
+}
+
+.tamanhoinputs1
+{
+    
+    height: 25px;
+    margin-bottom: 10px;
+    width: 653px;
+    color: rgba(252, 232, 232, 0.521);
+}
+
+.botao
+{
+    margin-top: 36px;
+    font-size: 15px;
+    height: 60px;
+    width: 670px;
+    margin-left: 15px;
+    background-color: rgb(243, 200, 9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.botao:hover
+{
+    background-color: rgb(243, 241, 98);
+    
+}
+
+.foto
+{
+    position: fixed;
+    margin-top: none;
+    margin-bottom: 0px;
+    height: 870px;
+    
+    margin-left: 1120px;
+}
+
+.calendar-icon {
+    
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #fff;
+}
+
+.emoji 
+{
+    position: fixed;
+    height: 25px;
+    margin-top: 125px;
+    margin-left: 163px;
+    z-index: 2;
+    
+}
+      
